@@ -1,2 +1,4 @@
-# face-recognition-PCA
-This is my first college's Capstone Project-1. This project(Facial Recognition System) is a system which used to recognised human face detection. By using Principal Components Analysis , its reduces high dimensional data into low dimensional data. 
+# Face-Recognition-PCA
+This is my college's first Capstone Project-1. This project(Facial Recognition System) is a system which used to recognize human faces. Facial Recognition System implemented using Principal Components Analysis(PCA) and Eigenfaces method, its reduces high dimensional image data into low dimensional eigenspace and performs face recognition using distance based classification. It is developed on AT & T face dataset and achieves high accuracy in controlled conditions. The project also explores the effect of the number of principal components on performance and extends the approach using Linear Discriminant Analysis (LDA) for improved class separability. 
+<br>
+Author - Omprakash Kumar (AI&Cs Student)
